@@ -1,9 +1,13 @@
 body {
 	margin: 0;
-	font-family: "Helvetica Neue", sans-serif
-		sans-serif;
+    font-family: Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-    background-color: #DFF6FF;
-    color: #06283D
+    color: #DFF6FF;
+    background-color: #06283D;
+    font-weight: 400;
+}
+
+header {
+    font-family: "Newsreader";
 }
